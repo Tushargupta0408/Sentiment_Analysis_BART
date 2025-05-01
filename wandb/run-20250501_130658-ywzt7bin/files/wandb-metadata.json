@@ -1,0 +1,31 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.2",
+  "startedAt": "2025-05-01T07:36:58.991663Z",
+  "program": "c:\\Users\\tusha\\Desktop\\Sentiment_Analysis\\Sentiment_Analysis.ipynb",
+  "codePath": "Sentiment_Analysis.ipynb",
+  "git": {
+    "remote": "https://github.com/Tushargupta0408/Sentiment_Analysis_BART.git",
+    "commit": "89eeae7d349eefcfb0b8c53cbc152acb1c565ce7"
+  },
+  "email": "tusharguptaindia614@gmail.com",
+  "root": "c:\\Users\\tusha\\Desktop\\Sentiment_Analysis",
+  "host": "LAPTOP-U2RODVM5",
+  "executable": "c:\\Users\\tusha\\Desktop\\Sentiment_Analysis\\.venv\\Scripts\\python.exe",
+  "codePathLocal": "Sentiment_Analysis.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "1022569549824",
+      "used": "267188023296"
+    }
+  },
+  "memory": {
+    "total": "8266665984"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

@@ -1,0 +1,39 @@
+{"time":"2025-05-01T13:06:58.9970872+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"c:\\Users\\tusha\\Desktop\\Sentiment_Analysis\\wandb\\run-20250501_130658-ywzt7bin\\logs\\debug-core.log"}
+{"time":"2025-05-01T13:06:59.9235306+05:30","level":"INFO","msg":"created new stream","id":"ywzt7bin"}
+{"time":"2025-05-01T13:06:59.9235306+05:30","level":"INFO","msg":"stream: started","id":"ywzt7bin"}
+{"time":"2025-05-01T13:06:59.9235306+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ywzt7bin"}
+{"time":"2025-05-01T13:06:59.9235306+05:30","level":"INFO","msg":"handler: started","stream_id":"ywzt7bin"}
+{"time":"2025-05-01T13:06:59.9235306+05:30","level":"INFO","msg":"sender: started","stream_id":"ywzt7bin"}
+{"time":"2025-05-01T13:07:00.4514394+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-01T13:07:03.0618695+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:11:49.4004167+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:12:00.554761+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:12:00.6146618+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:12:42.8345904+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:12:42.9257637+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:12:43.154582+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:12:43.1606579+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:12:43.2550351+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:12:43.2605146+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:12:43.4753556+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:12:43.4838699+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:13:06.0900911+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:13:06.1026837+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:13:12.0718088+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:13:12.0793835+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:13:13.6829176+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:13:13.8211093+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:13:17.5667536+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:13:28.8092238+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:13:30.6878474+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:13:30.8848868+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-01T13:13:34.2109747+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-01T13:13:34.3347269+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-01T13:13:34.3357995+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-01T13:13:35.3768323+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3523161},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3495032,"progress":"25B/25B"},{"desc":"uploading config.yaml","runtime_seconds":0.031589,"progress":"8.7KB/8.7KB"}],"total_operations":3}}
+{"time":"2025-05-01T13:13:35.7934458+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-01T13:13:36.1842514+05:30","level":"INFO","msg":"stream: closing","id":"ywzt7bin"}
+{"time":"2025-05-01T13:13:36.1842514+05:30","level":"INFO","msg":"handler: closed","stream_id":"ywzt7bin"}
+{"time":"2025-05-01T13:13:36.1847947+05:30","level":"INFO","msg":"sender: closed","stream_id":"ywzt7bin"}
+{"time":"2025-05-01T13:13:36.1842514+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ywzt7bin"}
+{"time":"2025-05-01T13:13:36.1858393+05:30","level":"INFO","msg":"stream: closed","id":"ywzt7bin"}
